@@ -1,0 +1,10 @@
+# Site settings
+title: 我的笔记
+email: liweisheng1234@qq.com
+description: "这是我搭建在github上的文章列表 and in your feed.xml site description."
+baseurl: /blog
+url: "http://www.waipy.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
